@@ -1,6 +1,6 @@
 # PTMSNet: Progressive Tripartite Multi-Scale Network for Low-Light Image Enhancement
 
-![Fig1](Figure\Fig1.png)
+<img src="Figure\Fig1.png" alt="Fig1" style="zoom:67%;" />
 
 
 
