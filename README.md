@@ -25,7 +25,7 @@ The repository is currently in the **pre-release stage**. The full code (includi
 
 
 
-### LOLv1：
+### **LOLv1**：
 
 <img src="Figure\Fig3.png" alt="Fig3" style="zoom:67%;" />
 
@@ -33,7 +33,7 @@ The repository is currently in the **pre-release stage**. The full code (includi
 
 
 
-### **LOLv2-Real**:
+### **LOLv2-Real**：
 
 <img src="Figure\Fig2.png" alt="Fig2" style="zoom:67%;" />
 
