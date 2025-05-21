@@ -1,6 +1,6 @@
 # PTMSNet: Progressive Tripartite Multi-Scale Network for Low-Light Image Enhancement
 
-![Fig1](C:\Users\Serendipity\Desktop\新建文件夹\Figure\Fig1.png)
+![Fig1](Figure\Fig1.png)
 
 
 
@@ -27,33 +27,33 @@ The repository is currently in the **pre-release stage**. The full code (includi
 
 ### LOLv1：
 
-<img src="C:\Users\Serendipity\Desktop\新建文件夹\Figure\Fig3.png" alt="Fig3" style="zoom:67%;" />
+<img src="Figure\Fig3.png" alt="Fig3" style="zoom:67%;" />
 
-<img src="C:\Users\Serendipity\Desktop\新建文件夹\Figure\Fig4.png" alt="Fig4" style="zoom:67%;" />
+<img src="Figure\Fig4.png" alt="Fig4" style="zoom:67%;" />
 
 
 
 ### **LOLv2-Real**:
 
-<img src="C:\Users\Serendipity\Desktop\新建文件夹\Figure\Fig2.png" alt="Fig2" style="zoom:67%;" />
+<img src="Figure\Fig2.png" alt="Fig2" style="zoom:67%;" />
 
 
 
 ### **LOLv2-Synthetic**：
 
-<img src="C:\Users\Serendipity\Desktop\新建文件夹\Figure\Fig7.png" alt="Fig7" style="zoom:67%;" />
+<img src="Figure\Fig7.png" alt="Fig7" style="zoom:67%;" />
 
 
 
 ### **MIT-Adobe-FiveK**：
 
-<img src="C:\Users\Serendipity\Desktop\新建文件夹\Figure\Fig5.png" alt="Fig5" style="zoom:67%;" />
+<img src="Figure\Fig5.png" alt="Fig5" style="zoom:67%;" />
 
 
 
 ### **Unpaired dataset**：
 
-<img src="C:\Users\Serendipity\Desktop\新建文件夹\Figure\Fig6.png" alt="Fig6" style="zoom:67%;" />
+<img src="Figure\Fig6.png" alt="Fig6" style="zoom:67%;" />
 
 
 
