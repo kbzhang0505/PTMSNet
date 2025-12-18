@@ -20,11 +20,6 @@ import os
 
 from torchvision.ops import DeformConv2d
 
-from transform.dataset_RGB import denoise_image
-from model.feature_aligned import Feature_Aligned_Flow_up_down as fafud
-from model.feature_aligned import Feature_Aligned_Flow_up as fafu
-from model.feature_aligned import Feature_Aligned_Flow_down as fafd
-
 
 ##########################################################################
 ## Layer Norm
