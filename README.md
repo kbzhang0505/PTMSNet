@@ -10,7 +10,7 @@
 
 
 - [x] 
-- [x] Inference code 
+- [x] Inference code and pre-trained checkpoints
 - [x] Training code and data loader
 - [x] Result 
 
@@ -118,13 +118,18 @@ You can use the following links to download the datasets
 1. To download training and testing data
 
 
-2To train LLFormer, run
+2. To train LLFormer, run
 ```bash
 python train.py -yml_path your_config_path
 ```
 ```
 You need to modify the config for your own training environment
 ```
+
+3. We provide pre-trained checkpoints for four datasets, which can be obtained as follows:
+   1. LOLv1 checkpoints [[Baidu drive](https://pan.baidu.com/s/1Y2NsENnsg1JU71pFxgTS7g?pwd=f41j)]
+   2. LOLv2-real checkpoints [[Baidu drive](https://pan.baidu.com/s/1jo-yO2K-6iU2YzIVcALlIg?pwd=hmhy)]
+   3. MIT-Adobe FiveK checkpoints [[Baidu drive](https://pan.baidu.com/s/1YugWKxTXEcaDqgGKRU077Q?pwd=2uy3)]
 
 
 
@@ -182,4 +187,5 @@ This implementation is based on / inspired by:
 ## Notes
 
 Current experimental results are for academic exchange only; the full code will be finalized and released upon paper acceptance.
+
 
